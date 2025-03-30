@@ -1,1 +1,1 @@
-# Circuts_
+# Elec Circuit Code Framework
